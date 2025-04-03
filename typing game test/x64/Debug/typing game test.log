@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\bwkin\OneDrive\Desktop\Programmer socks\CPP\typing game test\Source\Header\Header.h(27,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source/main.cpp')
+  
+  typing game test.vcxproj -> C:\Users\bwkin\OneDrive\Desktop\Programmer socks\CPP\typing game test\x64\Debug\typing game test.exe
